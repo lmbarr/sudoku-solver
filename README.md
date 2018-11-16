@@ -1,5 +1,5 @@
 # sudoku-solver
-Pure python sudoku solver for easy and medium level of difficulty taked from GNOME Sudoku (Ubuntu 14.04).
+Pure python sudoku solver for easy and medium level of difficulty.
 # Interpreter 
 Python 3
 # Test performed
